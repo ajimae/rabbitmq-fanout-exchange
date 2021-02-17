@@ -1,0 +1,22 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "exchange module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbitmq",
+    "amqplib",
+    "exchange",
+    "queue",
+    "channel"
+  ],
+  "author": "ajimae",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "dotenv": "^8.2.0"
+  }
+}
